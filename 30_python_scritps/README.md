@@ -1,3 +1,6 @@
+<!-- Title -->
+<h1 align="center" title="...and I'm happy to see you here :)">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Syed/h1>
+
 # PYTHON
 
 Python's suitability for creating both simple and complex applications has made it a highly sought-after and popular programming language in recent times. This article is for you if you are new to Python programming and want to quickly learn the fundamentals of the language. This article explains 30 examples of Python scripts using very basic examples so that you can understand the fundamentals of Python. 
