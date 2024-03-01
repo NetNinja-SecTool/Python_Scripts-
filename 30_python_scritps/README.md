@@ -87,23 +87,75 @@ Without first creating a Python file, you can use the terminal to write and run 
 ![Use of a command-line argument](https://github.com/NetNinja-SecTool/Python_Scripts-/assets/156086963/b5c1b6e5-8871-4152-9ac9-fba018227846)
 
 -  Use of date format
- ![Use of date forma](https://github.com/NetNinja-SecTool/Python_Scripts-/assets/156086963/922e5e5f-58ac-4180-8e16-d08c09aa2425)
+
+![Use of date forma](https://github.com/NetNinja-SecTool/Python_Scripts-/assets/156086963/922e5e5f-58ac-4180-8e16-d08c09aa2425)
 
 - Add and remove the item from a list
 
  ![Add and remove the item from a list](https://github.com/NetNinja-SecTool/Python_Scripts-/assets/156086963/f1bf8d33-415d-4506-a823-ab9bcca66d7f)
 
--  Slice data
+- Slice data
 
 ![Slice data](https://github.com/NetNinja-SecTool/Python_Scripts-/assets/156086963/675388c5-f5c2-4b95-aa75-326b65198add)
 
+- List comprehension
+  
+![List comprehension](https://github.com/NetNinja-SecTool/Python_Scripts-/assets/156086963/2d6364f7-ad0f-4df3-8359-df3d3d545431)
+
+- Add and search data in the dictionary
+  
+![Add and search data in the dictionary](https://github.com/NetNinja-SecTool/Python_Scripts-/assets/156086963/fdc5192d-9bdd-46cf-bc8d-c03769b06026)
+
+- Add and search data in the set
+  
+![Add and search data in the set](https://github.com/NetNinja-SecTool/Python_Scripts-/assets/156086963/f20bcb5f-f00c-4edc-89ed-0e780030315a)
+
+- Count items in the list
+  
+![Count items in the list](https://github.com/NetNinja-SecTool/Python_Scripts-/assets/156086963/68e363b7-2cab-4560-aa53-4b64348a9f12)
+
+- Define and call a function
+  
+![Define and call a function](https://github.com/NetNinja-SecTool/Python_Scripts-/assets/156086963/a65dc4a3-7937-46f3-b06c-fa83c1eaef39)
+
+- Use of throw and catch exception
+  
+![Use of throw and catch exception](https://github.com/NetNinja-SecTool/Python_Scripts-/assets/156086963/4cff69ea-f26a-49d4-8c31-2b78f617de58)
+
+- Read and Write File
+
+![Read and Write File](https://github.com/NetNinja-SecTool/Python_Scripts-/assets/156086963/83d72478-5cdf-471a-87cf-d8667d0f13eb)
+
+- List files in a directory
+  
+![List files in a directory](https://github.com/NetNinja-SecTool/Python_Scripts-/assets/156086963/85460517-d42c-42e9-88d2-d7ea5afc44ff)
+
+- Read and write using pickle
+  
+![Read and write using pickle](https://github.com/NetNinja-SecTool/Python_Scripts-/assets/156086963/dca81fea-a2ec-41df-83c4-379144b0f92f)
+
+- Define class and method
+  
+![Define class and method](https://github.com/NetNinja-SecTool/Python_Scripts-/assets/156086963/49af44a1-11e7-45c2-9f56-70294d3a726d)
+
+- Use of filter function
+  
+![Use of filter function](https://github.com/NetNinja-SecTool/Python_Scripts-/assets/156086963/e597a8b5-9b6b-43f3-b9fb-73e3b110923b)
+
+- Use of map function
+  
+![Use of map function](https://github.com/NetNinja-SecTool/Python_Scripts-/assets/156086963/a6ddf53f-eb18-463a-aace-16e06a2c0636)
+
+- Use of range function
+
+![Use of range function](https://github.com/NetNinja-SecTool/Python_Scripts-/assets/156086963/aad88d20-5045-47be-b4fa-c77f8956902b)
 
 
 
+This article covers the fundamentals of Python programming using thirty different topics. I'm hoping that this article's examples will make it easier for readers to pick up Python right away.
 
 
-
-
+<h1 align="center" title="...and I'm happy to see you here :)"> END </h1>
 
 
 
