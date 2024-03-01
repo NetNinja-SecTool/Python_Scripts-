@@ -58,13 +58,44 @@ Without first creating a Python file, you can use the terminal to write and run 
 
 ![Working_with_Boolean_types](https://github.com/NetNinja-SecTool/Python_Scripts-/assets/156086963/c366d8a4-9a63-4d58-b06d-60a4126839ca)
 
+- If else statement
+  
+![if_else](https://github.com/NetNinja-SecTool/Python_Scripts-/assets/156086963/13540c8a-34ef-4dbb-aeb3-b9294ce7dea6)
 
+- For Loop
+  
+![for_loops](https://github.com/NetNinja-SecTool/Python_Scripts-/assets/156086963/e0101eaf-8802-4ada-b91f-c6d7f9115e8d)
 
+- While Loop
+  
+![while_loop](https://github.com/NetNinja-SecTool/Python_Scripts-/assets/156086963/162aa85a-1541-4b4a-9c22-a759a8b793a0)
 
+- Using AND and OR operators
+  
+![Using_AND_and_ OR_operators](https://github.com/NetNinja-SecTool/Python_Scripts-/assets/156086963/5e645423-faa3-49da-94e2-4721cfe5e6f6)
 
+- Switch case statement
+  
+![Switch_case_ statement](https://github.com/NetNinja-SecTool/Python_Scripts-/assets/156086963/a5813786-b324-419b-836b-161f971ada15)
 
+-  Run one Python script from another
 
+![Run_one_Python_script_from_another](https://github.com/NetNinja-SecTool/Python_Scripts-/assets/156086963/86973280-00c1-4ca0-95b1-f43b0bae10dc)
 
+-  Use of a command-line argument
+  
+![Use of a command-line argument](https://github.com/NetNinja-SecTool/Python_Scripts-/assets/156086963/b5c1b6e5-8871-4152-9ac9-fba018227846)
+
+-  Use of date format
+ ![Use of date forma](https://github.com/NetNinja-SecTool/Python_Scripts-/assets/156086963/922e5e5f-58ac-4180-8e16-d08c09aa2425)
+
+- Add and remove the item from a list
+
+ ![Add and remove the item from a list](https://github.com/NetNinja-SecTool/Python_Scripts-/assets/156086963/f1bf8d33-415d-4506-a823-ab9bcca66d7f)
+
+-  Slice data
+
+![Slice data](https://github.com/NetNinja-SecTool/Python_Scripts-/assets/156086963/675388c5-f5c2-4b95-aa75-326b65198add)
 
 
 
