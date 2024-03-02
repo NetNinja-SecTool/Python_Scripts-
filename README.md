@@ -1,7 +1,10 @@
-<h1 align="center">🛡️ CYBER SECURITY PYTHON-SCRITPS 🐍</h1>
+<h1 align="center">🛡️ CYBER SECURITY PYTHON-SCRIPTS 🐍</h1>
 <h1 align="center"> Python is a versatile programming language, and it finds extensive use in the field of cybersecurity </h1>
+<dl>
+  <dt>Here are some aspects where Python is commonly employed in cybersecurity</dt>
+</dl>
 
-# Automation
+# Automation 
 
 Python is known for its simplicity and readability, making it an ideal choice for scripting and automation tasks in cybersecurity.
 Automated tasks can include scanning for vulnerabilities, parsing log files, or managing and analyzing large datasets.
