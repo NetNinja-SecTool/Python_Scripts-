@@ -62,17 +62,17 @@ Python's versatility and rich ecosystem of libraries contribute to its widesprea
 - [X] WEB SCRIPTS 🌐
 
 
-<h1 align="center"> 30_PYTHON_SCRIPTS </h1>
+  # 30_PYTHON_SCRIPTS 
 
 - Provide a list of the 30 Python scripts with a one or two-sentence description for each.
 - Mention any common themes or concepts covered in these scripts.
 
-<h1 align="center">SYSTEM_PYTHON_SCRIPTS</h1>
+# SYSTEM_PYTHON_SCRIPTS
 
 - List and briefly describe the Python scripts related to system-related tasks.
 - Highlight any system-related functionalities covered by the scripts.
 
-<h1 align="center">WEB_SCRIPTS</h1>
+# WEB_SCRIPTS
 
 - List and briefly describe the Python scripts related to web-related tasks.
 - Highlight any web-related functionalities covered by the scripts
