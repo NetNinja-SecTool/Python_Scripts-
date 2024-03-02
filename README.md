@@ -55,8 +55,28 @@
 - Python is often recommended for security professionals to learn due to its readability and ease of use.
 - Security courses and certifications often include Python scripting as part of their curriculum.
 
+Python's versatility and rich ecosystem of libraries contribute to its widespread adoption in the diverse domains of cybersecurity. Its ease of integration with other tools and systems makes it a go-to choice for security professionals and developers in the cybersecurity field.
 
-- [X] 30_PYTHON_SCRIPTS
-- [X] SYSTEM PYTHON SCRIPTS
-- [X] WEB SCRIPTS 
+- [X] 30_PYTHON_SCRIPTS 🐍
+- [X] SYSTEM PYTHON SCRIPTS 💻
+- [X] WEB SCRIPTS 🌐
+
+
+<h1 align="center"> 30_PYTHON_SCRIPTS </h1>
+
+- Provide a list of the 30 Python scripts with a one or two-sentence description for each.
+- Mention any common themes or concepts covered in these scripts.
+
+<h1 align="center">SYSTEM_PYTHON_SCRIPTS</h1>
+
+- List and briefly describe the Python scripts related to system-related tasks.
+- Highlight any system-related functionalities covered by the scripts.
+
+<h1 align="center">WEB_SCRIPTS</h1>
+
+- List and briefly describe the Python scripts related to web-related tasks.
+- Highlight any web-related functionalities covered by the scripts
+
+
+
 
