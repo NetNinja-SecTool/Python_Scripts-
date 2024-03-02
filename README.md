@@ -1,7 +1,9 @@
 <h1 align="center">🛡️ CYBER SECURITY PYTHON-SCRIPTS 🐍</h1>
+
 <p align="center">
-  <img width="350" src= "![image](https://github.com/NetNinja-SecTool/Python_Scripts-/assets/156086963/62d9f6c5-2203-444b-8b6b-df524c5d571a)" alt="">
+  <img width="500" src="![image](https://github.com/NetNinja-SecTool/Python_Scripts-/assets/156086963/c60ce1d3-ea56-4a04-b7d8-abc93e60bcd1)" alt="HACKER">
 </p>
+
 <h1 align="center"> Python is a versatile programming language, and it finds extensive use in the field of cybersecurity </h1>
 <dl>
   <dt>Here are some aspects where Python is commonly employed in cybersecurity</dt>
